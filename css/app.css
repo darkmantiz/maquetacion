@@ -1,0 +1,49 @@
+.body-fondo {
+    background-image: url('../assets/fondo.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.body-fondo-inicio {
+    background-image: url('../assets/BG2.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.body-fondo-servicios {
+    background-image: url('../assets/BG3.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.body-fondo-contacto {
+    background-image: url('../assets/BG4.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#BIENVENIDOS {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+#NOMBRE {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 7.5em;
+}
+
+.tabla-inicio {
+    background-color: rgb(255, 255, 255);
+    margin: 7.5em;
+}
